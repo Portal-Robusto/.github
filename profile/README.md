@@ -1,4 +1,4 @@
-# 🏛️ Panel Administrativo — Portales Institucionales (Portales Robustos)
+# 🏛️ Panel Administrativo — Portales Robustos
 
 Bienvenidos al **nuevo sistema de administración de portales institucionales**, provisto por **1CERO1**.  
 Este panel está orientado a una operación **más ágil, estable y consistente** en **PC, tablet y móvil**: menos fricción, más control, y una experiencia que responde como producto (no como “página que negocia”). ⚡
